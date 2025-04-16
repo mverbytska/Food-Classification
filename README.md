@@ -1,4 +1,7 @@
 # Food Data Classification
+### Data used:
+Food Data Classification dataset from Hugging Face: [click here to see the datacard](https://huggingface.co/datasets/Kaludi/data-food-classification)
+
 ### Modules to install: 
   * numpy
   * pandas
